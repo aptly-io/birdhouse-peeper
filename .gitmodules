@@ -1,0 +1,12 @@
+[submodule "esp/apps/birdhouse-peeper"]
+	path = esp/apps/birdhouse-peeper
+	url = https://github.com/aptly-io/esp-birdhouse-peeper.git
+[submodule "esp/apps/provision"]
+	path = esp/apps/provision
+	url = https://github.com/aptly-io/esp-birdhouse-peeper-provision.git
+[submodule "android/birdhouse-peeper"]
+	path = android/birdhouse-peeper
+	url = https://github.com/aptly-io/android-birdhouse-peeper.git
+[submodule "esp/components/esp32-camera"]
+	path = esp/components/esp32-camera
+	url = git@github.com:espressif/esp32-camera.git
